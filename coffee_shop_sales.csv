@@ -1,0 +1,16 @@
+date,product,units_sold,price,total_revenue
+1 01 2023,Espresso,50,4,200
+1 01 2023,Latte,30,4.5,135
+2 01 2023,Espresso,45,4,180
+2 01 2023,Latte,35,4.5,157.5
+3 01 2023,Cappuccino,40,4.25,170
+4 01 2023,Espresso,38,4,152
+5 01 2023,Latte,42,4.5,189
+6 01 2023,Cappuccino,20,4.25,85
+7 01 2023,Espresso,55,4,220
+8 01 2023,Latte,33,4.5,148.5
+9 01 2023,Cappuccino,30,4.25,127.5
+10 01 2023,Espresso,47,4,188
+11 01 2023,Latte,36,4.5,162
+12 01 2023,Cappuccino,28,4.25,119
+30 01 2023,Cappuccino,25,4.25,106.25
